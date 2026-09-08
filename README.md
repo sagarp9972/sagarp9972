@@ -1,35 +1,35 @@
 # 👋 Hi, I'm P Sagar
 
-### 🤖 AI & ML Engineer | Python Developer | Computer Vision | Machine Learning
+### 🤖 AI & ML Engineer | Python Developer | Computer Vision | Machine Learning 
 
 🎓 B.E. in Artificial Intelligence and Machine Learning  
 💼 Junior AI Engineer Intern  
-📍 Karnataka, India  
+📍 Bengaluru, Karnataka, India  
 
 [![GitHub](https://img.shields.io/badge/GitHub-sagarp9972-black?style=flat&logo=github)](https://github.com/sagarp9972)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-P%20Sagar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/p-sagar-64aa722a9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://new-portfolio-p8es.onrender.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sagarpsagar555@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with hands-on experience in **Python, Machine Learning, Deep Learning, Computer Vision, Web Development, and AI application development**.
+I'm a **B.E. graduate in Artificial Intelligence and Machine Learning** with hands-on experience in Python, Machine Learning, Deep Learning, Computer Vision, Web Development, and AI application development.
 
 I enjoy building practical projects that combine AI with real-world applications and continuously improving my technical skills through projects, experimentation, and development.
 
 I have experience in:
 
-- 🤖 Machine Learning & Deep Learning
+- 🤖 Machine Learning 
 - 👁️ Computer Vision
 - 🎯 YOLO Object Detection
 - 🐍 Python Development
 - 📊 Data Analysis & Visualization
 - 🌐 Full-Stack Web Development
-- ⚡ AI Model Deployment
-- 🔌 REST API Development
-- 🗄️ Database Development
 - 📱 Application Development
 
-Currently, I work on **AI and Computer Vision solutions**, including dataset preparation, annotation, preprocessing, augmentation, model training, evaluation, optimization, and deployment on edge devices.
+Currently, I work on **Computer Vision and IoT solutions for sports analytics**, including dataset preparation, annotation, preprocessing, model training, evaluation, and real-time inference deployed on edge devices.
 
 ---
 
@@ -38,8 +38,6 @@ Currently, I work on **AI and Computer Vision solutions**, including dataset pre
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / Machine Learning
@@ -60,7 +58,6 @@ Currently, I work on **AI and Computer Vision solutions**, including dataset pre
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -87,30 +84,48 @@ Currently, I work on **AI and Computer Vision solutions**, including dataset pre
 
 # 📂 Featured Projects
 
-## 🎮 GameHub — Multi-Game Web Platform
+## 🛠️ Smart Service Booking Web Application
 
-A web-based gaming platform containing multiple games and an integrated quiz system.
+A full-stack web application designed to simplify **service booking and management**.
+
+The application allows users to explore available services, book services, manage bookings, and provides an organized platform for service management.
 
 ### Features
 
-- 🎮 Multiple games
-- 🧩 Sudoku
-- ♟️ Chess
-- 🎯 Quiz
-- 🐍 Snakes & Ladders
-- 🎲 Ludo
-- 🧠 Nonogram
-- 👑 Queens
-- 🔢 Tango
-- 📊 Score tracking
-- 📜 Game history
-- 🏆 Player statistics
-- 💡 Quiz hints
-- 📅 Daily challenges
+- 🛠️ Service listing and management
+- 📅 Service booking
+- 🗓️ Booking date and time management
+- 📋 View and manage bookings
+- ✏️ Update and cancel bookings
+- 🔍 Search and select services
+- 👨‍💼 Service provider management
+- 📊 Booking status tracking
+- 🔔 Booking notifications
 
 **Technologies:**
 
-`Python` `Flask` `HTML` `CSS` `JavaScript` `CSV` `MySQL`
+`Python` `Django` `HTML` `CSS` `JavaScript` `MySQL` `Web Application`
+
+---
+
+## 🏫 Admission Management System
+
+A web-based application developed to manage the **student admission process** efficiently.
+
+The system helps manage student information, admission records, applications, and related administrative activities.
+
+### Features
+
+- 👨‍🎓 Student registration
+- 📝 Admission application management
+- 📋 Student records management
+- 🔍 Search and manage student information
+- 📊 Admission data management
+- 🔐 Secure data handling
+
+**Technologies:**
+
+`Python` `Django` `HTML` `CSS` `JavaScript` `MySQL` `Web Application`
 
 ---
 
@@ -118,7 +133,16 @@ A web-based gaming platform containing multiple games and an integrated quiz sys
 
 An AI-integrated web application designed for **animal husbandry and livestock management**.
 
-The project focuses on using AI and web technologies to provide useful information and services related to animal husbandry.
+The application focuses on providing useful AI-powered information and services related to animal health, livestock management, and animal husbandry.
+
+### Features
+
+- 🤖 AI-integrated services
+- 🌐 Multilingual support
+- 🐄 Animal husbandry information
+- 🩺 Animal health-related assistance
+- 📊 Data-driven solutions
+- 🌐 User-friendly web interface
 
 **Technologies:**
 
@@ -126,42 +150,36 @@ The project focuses on using AI and web technologies to provide useful informati
 
 ---
 
-## 🚇 MetroCare
+## 🧠 Quiz Master — Full-Stack Online Quiz Web Application
 
-A data-driven application developed using Streamlit and FastAPI with database integration.
+A full-stack web application designed for **online quiz games and knowledge learning**.
 
-**Technologies:**
+The project provides multiple quiz categories, timed quizzes, scoring, history, leaderboard, and performance tracking.
 
-`Python` `Streamlit` `FastAPI` `MongoDB` `Pandas` `Plotly`
+### Features
 
----
-
-## 👁️ Computer Vision & Object Detection
-
-Developed Computer Vision projects using **Python, OpenCV, YOLO, and Deep Learning**.
-
-### Work Includes
-
-- Dataset collection and preparation
-- Image annotation
-- Data preprocessing
-- Data augmentation
-- Object detection
-- Object tracking
-- Model training
-- Model evaluation
-- Real-time inference
-- Edge AI deployment
+🧠 56 Quiz Categories
+⏱️ Timed Quizzes
+📝 Multiple-Choice Questions
+📊 Score & Results
+🏆 Leaderboard
+📜 Quiz History
+📈 Performance Tracking
+🎯 Daily Challenge
+🔀 All Quiz
+👤 User Profile
 
 **Technologies:**
 
-`Python` `OpenCV` `YOLO` `PyTorch` `Deep Learning` `Roboflow`
+`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript` `REST API` `CSV` `Web Application`
 
 ---
+
+
 
 # 💼 Experience
 
-## 🤖 Junior AI Engineer Intern
+## 1.🤖 Junior AI Engineer Intern(Present)
 
 Working on **Artificial Intelligence and Computer Vision applications**.
 
@@ -184,6 +202,18 @@ Working on **Artificial Intelligence and Computer Vision applications**.
 
 ---
 
+## 2. 🐍 Python Programming & Applied Machine Learning Intern
+**Karunadu Technologies Pvt. Ltd., Bengaluru**
+
+- Developed applications using **Python and Django**
+- Worked on Python programming and Machine Learning
+- Performed data processing and analysis
+- Implemented and experimented with Machine Learning models
+- Developed backend functionality using Django
+- Worked on application development and debugging
+
+---
+
 # 📚 Certifications
 
 🏆 Machine Learning with TensorFlow  
@@ -202,12 +232,6 @@ Working on **Artificial Intelligence and Computer Vision applications**.
 Visvesvaraya Technological University (VTU), Belagavi
 
 **2023 – 2026 | CGPA: 7.48 / 10**
-
-## DACG Polytechnic, Chikkamagaluru
-
-**Diploma**
-
-**2021 – 2023**
 
 ---
 
