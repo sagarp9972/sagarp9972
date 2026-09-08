@@ -158,16 +158,16 @@ The project provides multiple quiz categories, timed quizzes, scoring, history, 
 
 ### Features
 
--🧠 56 Quiz Categories
--⏱️ Timed Quizzes
--📝 Multiple-Choice Questions
--📊 Score & Results
--🏆 Leaderboard
--📜 Quiz History
--📈 Performance Tracking
--🎯 Daily Challenge
--🔀 All Quiz
--👤 User Profile
+- 🧠 56 Quiz Categories
+- ⏱️ Timed Quizzes
+- 📝 Multiple-Choice Questions
+- 📊 Score & Results
+- 🏆 Leaderboard
+- 📜 Quiz History
+- 📈 Performance Tracking
+- 🎯 Daily Challenge
+- 🔀 All Quiz
+- 👤 User Profile
 
 **Technologies:**
 
